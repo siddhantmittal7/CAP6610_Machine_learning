@@ -1,2 +1,2 @@
-# CAP6610_Machine_learning
+# CAP6610 Machine Learning
 Contains all homeworks (Homework, Solution, Code) 
